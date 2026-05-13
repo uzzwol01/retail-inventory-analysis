@@ -180,7 +180,7 @@ Used Replace Values in Power Query to expand all labels: S → Small, M → Medi
 
 ## 👤 Author
 
-**Ujjwal Dhakal** (Uzzzol) — Responsible for:
+**Ujjwal Dhakal** — Responsible for:
 - Power BI connection to SQL Server database
 - Data cleaning in Power Query (size labels, null checks, date types)
 - Best & Worst Sellers dashboard page (6 interactive charts)
